@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+p,h1,h2,h3,h4,h5,h6 {
+    font-family: Microsoft YaHei UI;
+    color: white;
+}
+span {
+    font-family: Consolas;
+    color: red;
+    font-size: 28px;
+}
