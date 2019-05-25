@@ -1,9 +1,0 @@
-step1: git pull origin master
-step2: git rm -r --cached <Folder>
-step3: git commit -m 'Commit'
-step4: git push -u origin master
-step5: cd ..
-step6: rm -rf "GITHUB PROJECT"
-step7: git clone "GITHUB PROJECT HTTPS/SSH"
-step8: cd "GITHUB PROJECT"
-step9: ls
