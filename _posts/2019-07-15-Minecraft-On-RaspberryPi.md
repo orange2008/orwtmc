@@ -32,7 +32,7 @@ $ sudo chmod +x start
 $ sudo ./start
 $openjdkCONSOLE $ stop
 $ rm -rf server.properties
-$ wget --no-checl-certificate https://raw.githubusercontent.com/orange2008/postitem/master/MineCraft-Postitem/server.properties
+$ wget --no-check-certificate https://raw.githubusercontent.com/orange2008/postitem/master/MineCraft-Postitem/server.properties
 $ sudo ./start
 
 ```
