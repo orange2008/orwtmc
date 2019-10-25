@@ -2,7 +2,7 @@
 title: Convert *.flv to *.mp4
 published: true
 ---
-Please view [Convert *.flv to *.mp3](Convert flv into mp3]
+Please view [Convert *.flv to *.mp3](Convert-flv-into-mp3)
 The format was
 ```shell
 ffmpeg -i {InputFLV} {OutputMP4}
