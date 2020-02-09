@@ -42,13 +42,13 @@ $ mv *.jar server.jar
 ```shell
 $ echo "java -Xms{Minimal RAM} -Xmx{Maximum RAM} -jar server.jar nogui" >> start
 ```
-Please replace the minimal ram in {Minimal RAM}, replace the maximum ram in {Maximum RAM}. I will use 16GB
+Please replace the minimal ram in {Minimal RAM}, replace the maximum ram in {Maximum RAM}. I will use 1GB
 
 ```shell
-$ echo "java -Xms16G -Xmx16G -jar server.jar nogui" >> start
+$ echo "java -Xms1G -Xmx1G -jar server.jar nogui" >> start
 ```
 
-I recommended you to set a same value.
+I recommended you to set a same value.Because if all same, your memory will suspend and not __jump__ anymore.
 
 ```shell
 $ sudo chmod 777 start
@@ -59,4 +59,5 @@ $ rm -rf server.properties
 $ wget --no-check-certificate https://raw.githubusercontent.com/orange2008/postitem/master/MineCraft-Postitem/server.properties
 $ sudo ./start
 ```
-__AVAILABLE ON RASPBERRY PI OR ANY LINUX HOST!!!(EXCEPT CENTOS)__
+Bam, your mc server is done and launched!
+The properties file is download from my website, i pre-configured, if you need to change more, you can google or bing.
