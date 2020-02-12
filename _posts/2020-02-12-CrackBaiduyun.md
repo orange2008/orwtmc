@@ -50,7 +50,7 @@ Please allow the permission.
 ## Step 9
 Then you can open the aria2tools console.
 The speed will over the sky!!!
-If the speed still on several kilobyte per second, make sure you are not banned, if you have been banned, the account will be unbanned under 7 days.
+If the speed still on several kilobyte per second, make sure you are not banned, if you have been banned, the account will be unban under 7 days.
 
 # End
 Thanks for seeing! Hope i can help you!
