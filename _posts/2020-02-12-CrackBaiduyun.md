@@ -15,7 +15,7 @@ Baiduyun account and the file(s) you wanted to download.
 # Operation
 
 ## Step 1
-Download the customize chrome browser, [Download here](https://www.mediafire.com/file/b7mlapm46usc4ee/Chrome_%u61D2%u4EBA%u7248_x86_64.7z/file)
+Download the customize chrome browser, [Download here](http://www.mediafire.com/file/b7mlapm46usc4ee/Chrome_%25E6%2587%2592%25E4%25BA%25BA%25E7%2589%2588_x86_64.7z/file)
 
 ## Step 2
 When you downloaded the file, extract to a folder.
