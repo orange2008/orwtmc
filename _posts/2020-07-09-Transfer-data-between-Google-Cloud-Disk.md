@@ -22,7 +22,7 @@ I believe everyone has used the Google Cloud **Team Disk**. Everyone will inevit
 
 4. Now it's time to install the runtime!Click the play button.![](https://cdn.jsdelivr.net/gh/orange2008/IMGBED/assets/20200709174409.png)
 
-5. It’s time to copy our SA (Service Account) to **In a folder called accounts in my Drive**, why use SA, because Google has a limit, each account can not copy more than 750G files per day, so we use multiple users To circumvent this limitation. And this script only supports SA account replication. If you don’t know how to create and use SA, then go to Google or open [This website]([https://github.com/xyou365/AutoRclone](https://gsuitems.com/index.php/archives/13/#步骤2生成serviceaccounts)) If you do not understand Chinese, then translate it. It should look like this if done.![](https://cdn.jsdelivr.net/gh/orange2008/IMGBED/assets/20200709174949.png)
+5. It’s time to copy our SA (Service Account) to **In a folder called accounts in my Drive**, why use SA, because Google has a limit, each account can not copy more than 750G files per day, so we use multiple users To circumvent this limitation. And this script only supports SA account replication. If you don’t know how to create and use SA, then go to Google or open [This website](https://gsuitems.com/index.php/archives/13/#步骤2生成serviceaccounts) If you do not understand Chinese, then translate it. It should look like this if done.![](https://cdn.jsdelivr.net/gh/orange2008/IMGBED/assets/20200709174949.png)
 
 6. Then we return to the colab page and click "SA账号配置"'s play button. You should authenticate your Google account and get the authentication code and paste it to the input prompt.![](https://cdn.jsdelivr.net/gh/orange2008/IMGBED/assets/20200709175239.png)
 
